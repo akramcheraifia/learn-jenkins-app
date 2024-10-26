@@ -1,4 +1,4 @@
-Jenkinsfile.txt
+
 pipeline {
     agent any
 
